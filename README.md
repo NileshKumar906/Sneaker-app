@@ -1,16 +1,29 @@
-# shop_sneakers
+# 👟 Sneaker App
 
-A new Flutter project.
+Sneaker App is a Flutter-based mobile application designed for browsing and exploring sneakers with a clean and modern user interface.  
+This project demonstrates Flutter development, Firebase integration, and proper GitHub security practices.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Browse sneaker products
+- Clean and modern UI
+- Smooth navigation between screens
+- Firebase integration
+- Secure configuration (no API keys exposed)
+- Fast and responsive Flutter UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧑‍💻 Tech Stack
+
+- Flutter (Dart)
+- Firebase
+- Android
+- Git & GitHub
+
+---
+
+## 📂 Project Structure
+
